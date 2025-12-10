@@ -5,7 +5,7 @@ import models.Pedido;
 /**
  * Clase que sirve como controlador para la clase Pedido.
  * @see Pedido
- * @author Alejandro Escobedo
+ * @author Mikel Sanchez
  */
 public class Pedidos extends BaseController{
     

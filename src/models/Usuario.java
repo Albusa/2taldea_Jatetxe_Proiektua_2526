@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 
 /**
  * Clase que contiene los atributos de un Usuario.
- * @author Alejandro Escobedo, Erik Zubia
+ * @author Alejandro Escobedo, Erik Zubia, Julen Ruiz De Viñaspre
  */
 public class Usuario extends BaseModel{    
     public static final String PROP_ID_USUARIO = "PROP_ID_USUARIO";

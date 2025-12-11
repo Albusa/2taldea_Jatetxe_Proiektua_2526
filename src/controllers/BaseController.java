@@ -16,8 +16,10 @@ import javax.swing.JComboBox;
 
 import utils.StringUtils;
 
+/*Cambio Julen en el BaseController*/
+
 /**
- * Clase que sirve como controlador base para todos los controladores
+ * Clase que sirve como controlador base para todos los controladores 
  * @author Alejandro Escobedo
  */
 public class BaseController {

@@ -6,7 +6,7 @@ import java.sql.Timestamp;
 
 /**
  * Clase que contiene los atributos de un Pedido.
- * @author Alejandro Escobedo
+ * @author Mikel Sanchez
  */
 public class Pedido extends BaseModel{
     public static final String PROP_ID_PEDIDO = "PROP_ID_PEDIDO";

@@ -2,7 +2,7 @@ package controllers;
 
 /**
  *
- * @author Alejandro Escobedo
+ * @author Alejandro Alves
  */
 public class Proveedores extends BaseController{
     
